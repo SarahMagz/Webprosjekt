@@ -5,12 +5,14 @@
         <title>SmartTransit</title>
 
     </head>
-    <body> lolololo
+    <body>
         <h1>SmartTransit</h1>
+        <img src="ruterferdig.png" alt="Demonstrasjon av programvare og logo">
         <p>
-          roflmao
+
             - effektivisering av trafikken -
         </p>
         <h2>Hva er SmartTransit?</h2>
-        <p> SmartKøproblemer er .. </p>
+        <p> SmartTransit er .. </p>
     </body>
+</html>
