@@ -7,11 +7,11 @@
     </head>
     <body>
         <h1>SmartTransit</h1>
-        <img src="ruterferdig.png" alt="Demonstrasjon av programvare og logo">
         <p>
 
             - effektivisering av trafikken -
         </p>
+          <img src="ruterferdig.png" alt="Demonstrasjon av programvare og logo">
         <h2>Hva er SmartTransit?</h2>
         <p> SmartTransit er .. </p>
     </body>
