@@ -1,5 +1,5 @@
 body {
-<<<<<<< Updated upstream
+
 background-image: url("../Bilder/kart2.jpg");
 background-size:cover;
 background-repeat: no-repeat;
@@ -11,5 +11,8 @@ text-align: center;
         padding: 5px;
         margin: 10px;
     }
+    article {
+      width: 50%;
+    text-align: center;
 
 }
