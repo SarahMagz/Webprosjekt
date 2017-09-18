@@ -6,6 +6,17 @@ text-align: center;
 font-family: Tahoma, Geneva, sans-serif;
 
  }
+ #underskrift{
+   font-size: 150%;
+   margin-top: -35px;
+ }
+
+.kolonne{
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
+  column-count: 2;
+  text-align: left;
+}
 
 .box{
     width:1000px;
@@ -15,7 +26,7 @@ font-family: Tahoma, Geneva, sans-serif;
     padding-top: 30px;
 }
 h1 {
-    font-size: 300%;
+    font-size: 400%;
     font-family: Verdana;
 }
 
