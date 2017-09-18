@@ -3,23 +3,39 @@ background-image: url("../Bilder/kart2.jpg");
 background-size:cover;
 background-repeat: no-repeat;
 text-align: center;
+font-family: Tahoma, Geneva, sans-serif;
 
  }
+ #underskrift{
+   font-size: 150%;
+   margin-top: -35px;
+ }
 
+.kolonne{
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
+  column-count: 2;
+  text-align: left;
+}
 
 .box{
     width:1000px;
     height:2000px;
-    
+    margin: auto;
+    margin-top: -20px;
+    padding-top: 30px;
 }
+h1 {
+    font-size: 400%;
+    font-family: Verdana;
+}
+
 
 .white{
-    background:#FFFFFF;
-}
+    background: rgba(255, 255, 255, 0.8);
 
+}
     article {
       width: 70%;
     margin: 0 auto;
-
-
 }
