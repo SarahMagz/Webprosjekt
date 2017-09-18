@@ -1,18 +1,25 @@
 body {
-
+<<<<<<< Updated upstream
 background-image: url("../Bilder/kart2.jpg");
 background-size:cover;
 background-repeat: no-repeat;
 text-align: center;
-
+    box{
+        width:50px;
+        height:50px;
+        
+    }
        div {
         width: 200px;
         border: 5px white;
         padding: 5px;
         margin: 10px;
     }
+<<<<<<< Updated upstream
     article {
       width: 50%;
     margin: 0 auto;
+=======
+>>>>>>> Stashed changes
 
 }
