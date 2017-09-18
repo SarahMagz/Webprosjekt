@@ -11,8 +11,9 @@ text-align: center;
     width:1000px;
     height:2000px;
     margin: auto;
-    margin-top: 20px;
-    padding-top: 20px;
+    margin-top: -20px;
+    padding-top: 30px;
+
 
 
 }
@@ -24,10 +25,6 @@ text-align: center;
     article {
       width: 70%;
     margin: 0 auto;
-}
-
-body,html {
-    margin:0;
-    padding:0;
     
+
 }
