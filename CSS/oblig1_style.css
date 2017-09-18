@@ -3,9 +3,9 @@ background-image: url("../Bilder/kart2.jpg");
 background-size:cover;
 background-repeat: no-repeat;
 text-align: center;
+font-family: Tahoma, Geneva, sans-serif;
 
  }
-
 
 .box{
     width:1000px;
@@ -13,10 +13,12 @@ text-align: center;
     margin: auto;
     margin-top: -20px;
     padding-top: 30px;
-
-
-
 }
+h1 {
+    font-size: 300%;
+    font-family: Verdana;
+}
+
 
 .white{
     background: rgba(255, 255, 255, 0.8);
@@ -25,6 +27,4 @@ text-align: center;
     article {
       width: 70%;
     margin: 0 auto;
-    
-
 }
