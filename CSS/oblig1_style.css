@@ -30,7 +30,15 @@ h1 {
     font-size: 400%;
     font-family: Verdana;
 }
-
+.knapp1{
+  height: 5em;
+  width: auto;
+}
+.knapp2{
+  height: 4.55em;
+  width: auto;
+  padding-bottom: 3px;
+}
 .white{
     background: rgba(255, 255, 255, 0.8);
 
