@@ -15,10 +15,10 @@ font-family: Tahoma, Geneva, sans-serif;
 .kolonne{
   text-align: left;
     border-style: solid;
-    
+
     border-color: hotpink;
-    
-    
+
+
 }
 
 .box{
@@ -40,7 +40,7 @@ h1 {
 .knapp2{
   height: 4.55em;
   width: auto;
-  padding-bottom: 3px;
+  padding-bottom: 0.2em;
 }
 .white{
     background: rgba(255, 255, 255, 0.8);
