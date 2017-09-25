@@ -1,24 +1,18 @@
 body {
-background-image: url("../Bilder/kart2.jpg");
-background-size:cover;
-background-repeat: no-repeat;
-background-attachment: fixed;
-text-align: center;
-font-family: Tahoma, Geneva, sans-serif;
-
+    background-image: url("../Bilder/kart2.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    font-family: Tahoma, Geneva, sans-serif;
  }
- #underskrift{
-   font-size: 150%;
-   margin-top: -35px;
+#underskrift{
+    font-size: 150%;
+    margin-top: -35px;
  }
-
 .kolonne{
-  text-align: left;
-
-
-
+    text-align: left;
 }
-
 .box{
     width:1000px;
     height:90em;
@@ -32,19 +26,19 @@ h1 {
     font-family: Verdana;
 }
 .knapp1{
-  height: 5em;
-  width: auto;
+    height: 5em;
+    width: auto;
 }
 .knapp2{
-  height: 4.55em;
-  width: auto;
-  padding-bottom: 0.2em;
+    height: 4.55em;
+    width: auto;
+    padding-bottom: 0.2em;
 }
 .white{
     background: rgba(255, 255, 255, 0.85);
 
 }
-    article {
-      width: 70%;
+article {
+    width: 70%;
     margin: 0 auto;
 }
