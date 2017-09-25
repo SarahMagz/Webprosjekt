@@ -5,11 +5,11 @@ body {
     background-attachment: fixed;
     text-align: center;
     font-family: Tahoma, Geneva, sans-serif;
- }
+}
 #underskrift{
     font-size: 150%;
     margin-top: -35px;
- }
+}
 .kolonne{
     text-align: left;
 }
@@ -18,7 +18,7 @@ body {
     height:90em;
     margin: auto;
     margin-top: -20px;
-    margin-bottom: -20px;
+    margin-bottom: 20px;
     padding-top: 30px;
 }
 h1 {
