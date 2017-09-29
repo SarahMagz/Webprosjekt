@@ -14,12 +14,12 @@ body {
     text-align: left;
 }
 .box{
-    width:1000px;
-    height:90em;
+    width: 60em;
+    height: 80em;
     margin: auto;
     margin-top: -20px;
-    margin-bottom: 20px;
     padding-top: 30px;
+    margin-bottom: -20px;
 }
 h1 {
     font-size: 400%;
