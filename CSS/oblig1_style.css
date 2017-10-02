@@ -5,6 +5,8 @@ body {
     background-attachment: fixed;
     text-align: center;
     font-family: Tahoma, Geneva, sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 #underskrift{
     font-size: 150%;
@@ -17,9 +19,7 @@ body {
     width: 60em;
     height: 80em;
     margin: auto;
-    margin-top: -20px;
     padding-top: 30px;
-    margin-bottom: -20px;
 }
 h1 {
     font-size: 400%;
